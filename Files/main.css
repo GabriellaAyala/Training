@@ -1,4 +1,14 @@
 body {
-  background: #D3D3D3;
+  background: #F0F0F0;
   margin: 0;
+}
+ .code {
+   text-indent: 50px;
+   display:block;
+   width:110%;
+ }
+
+ul.code {
+  list-style-type: none;
+  margin-left: -2em;
 }
